@@ -1,0 +1,13 @@
+Converting task- 5
+dialog-babi-task5-full-dialogs-trn.txt
+# Original dialogs = 2925
+# Permutations count = 5062
+dialog-babi-task5-full-dialogs-dev.txt
+# Original dialogs = 2925
+# Permutations count = 5240
+dialog-babi-task5-full-dialogs-tst.txt
+# Original dialogs = 2912
+# Permutations count = 5168
+dialog-babi-task5-full-dialogs-tst-OOV.txt
+# Original dialogs = 3087
+# Permutations count = 5190
