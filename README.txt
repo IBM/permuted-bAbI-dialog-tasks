@@ -5,6 +5,7 @@ Adaptation of the "Dialog bAbI tasks data" dataset released by Facebook, availab
 This directory contains our proposed testbed for evaluating end-to-end dialog systems in the restaurant domain as described in the paper "Learning End-to-End Goal-Oriented Dialog with Multiple Answers" by Janarthanan Rajendran*, Jatin Ganhotra*, Satinder Singh and Lazaros Polymenakos (arxiv link), accepted at EMNLP 2018.
 (*Equal Contribution)
 
+
 Permuted-Slots-And-Restaurants
 ==========================================
 The directory contains datasets where the slot values have been permuted and there are multiple restaurants with same rating.
@@ -64,8 +65,11 @@ Similar to original bAbI dialog tasks, the goal of the tasks is to predict the b
 
 For a Task 5 dialog, both of the above mentioned changes are present in a single dialog.
 
+
 License
 ==========================================
+This dataset is released under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+A copy of this license is included with the data. You can also access the license at <http://creativecommons.org/licenses/by-nc-sa/4.0/>.
 
 
 Contact
