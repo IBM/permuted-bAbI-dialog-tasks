@@ -2,7 +2,7 @@ Permuted Dialog bAbI tasks data
 -----------------------------------------------------------------------
 Adaptation of the "Dialog bAbI tasks data" dataset released by Facebook, available at https://research.fb.com/downloads/babi/, under the CC BY 3.0 Unported license, available at https://creativecommons.org/licenses/by/3.0/legalcode.
 
-This directory contains our proposed testbed for evaluating end-to-end dialog systems in the restaurant domain as described in the paper "Learning End-to-End Goal-Oriented Dialog with Multiple Answers" by Janarthanan Rajendran*, Jatin Ganhotra*, Satinder Singh and Lazaros Polymenakos (arxiv link), accepted at EMNLP 2018.
+This directory contains our proposed testbed for evaluating end-to-end dialog systems in the restaurant domain as described in the paper "Learning End-to-End Goal-Oriented Dialog with Multiple Answers" by Janarthanan Rajendran*, Jatin Ganhotra*, Satinder Singh and Lazaros Polymenakos (https://arxiv.org/abs/1808.09996), accepted at EMNLP 2018.
 (*Equal Contribution)
 
 
@@ -74,5 +74,7 @@ A copy of this license is included with the data. You can also access the licens
 
 Contact
 ==========================================
-For more details on the dataset and baselines, see the paper "Learning End-to-End Goal-Oriented Dialog with Multiple Answers" by Janarthanan Rajendran*, Jatin Ganhotra*, Satinder Singh and Lazaros Polymenakos (arxiv link).
+For more details on the dataset and baselines, see the paper "Learning End-to-End Goal-Oriented Dialog with Multiple Answers" by Janarthanan Rajendran*, Jatin Ganhotra*, Satinder Singh and Lazaros Polymenakos (https://arxiv.org/abs/1808.09996).
+(*Equal Contribution)
+
 For any information, contact Jatin Ganhotra : jatinganhotra (at) us (dot) ibm (dot) com .
